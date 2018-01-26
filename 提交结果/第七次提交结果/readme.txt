@@ -1,0 +1,1 @@
+去掉order history 里面nearest city nearest country nearest contient 几个字段看看是否有过耦合。
